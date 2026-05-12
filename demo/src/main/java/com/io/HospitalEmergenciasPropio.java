@@ -24,7 +24,7 @@ public class HospitalEmergenciasPropio {
      */
     public static int cargarPacientes(VectorHeap<Paciente> heap) {
         int contador = 0;
-        try (BufferedReader br = new BufferedReader(new FileReader("pacientes.txt"))) {
+        try (BufferedReader br = new BufferedReader(new FileReader("src/main/resources/pacientes.txt"))) {
             String linea;
             while ((linea = br.readLine()) != null) {
                 String[] partes = linea.split(",");
