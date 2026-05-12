@@ -14,7 +14,7 @@ Este proyecto implementa:
 - **Manejo de errores**: Lectura de archivos, validación de datos
 
 ## Estructura del Proyecto
-
+```
 emergencias-hospital-priority-queue/
 ├── README.md
 ├── .gitignore
@@ -37,7 +37,7 @@ emergencias-hospital-priority-queue/
     │               └── VectorHeapTest.java
     └── target/
         └── classes/
-
+```
 ## Requisitos
 
 - **Java 17 o superior**
