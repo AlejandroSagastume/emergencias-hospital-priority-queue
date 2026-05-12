@@ -1,0 +1,7 @@
+Juan Perez, fractura de pierna, C
+Maria Ramirez, apendicitis, A
+Lorenzo Toledo, chikunguya, E
+Carmen Sarmientos, dolores de parto, B
+Pedro Martinez, quemadura severa, A
+Ana Lopez, migraña fuerte, D
+Carlos Ruiz, intoxicación, B
