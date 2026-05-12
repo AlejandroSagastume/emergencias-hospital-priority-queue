@@ -89,6 +89,7 @@ Pedro Martinez, quemadura severa, A
 Ana Lopez, migraña fuerte, D
 Carlos Ruiz, intoxicación, B
 
+
 ## Orden de Atención
 
 Los pacientes serán atendidos en el siguiente orden (de máxima a mínima prioridad):
@@ -99,6 +100,7 @@ Los pacientes serán atendidos en el siguiente orden (de máxima a mínima prior
 5. Juan Perez - fractura de pierna - C
 6. Ana Lopez - migraña fuerte - D
 7. Lorenzo Toledo - chikunguya - E
+8. Alejandro Sagastume, Gastritis, A
 
 ## Pruebas JUnit
 
